@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba del Prep Coure de Hnery
+Este es un repositorio de prueba del Prep Course de Hnery
